@@ -2,6 +2,7 @@ package ua.npu.project.library;
 
 //Клас Відео
 
+
 public class Video extends Publication{
 
     public String format;
