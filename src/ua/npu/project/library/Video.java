@@ -25,9 +25,12 @@ public class Video extends Publication{
         this.format = format;
     }
 
+
+
     public double getLenght() {
         return lenght;
     }
+
 
     public void setLenght(double lenght) {
         this.lenght = lenght;
