@@ -1,6 +1,6 @@
 package ua.npu.project.library;
 
-//Відео
+//Клас Відео
 
 public class Video extends Publication{
 
