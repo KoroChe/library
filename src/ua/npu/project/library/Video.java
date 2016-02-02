@@ -21,6 +21,7 @@ public class Video extends Publication{
         return format;
     }
 
+
     public void setFormat(String format) {
         this.format = format;
     }
